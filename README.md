@@ -26,20 +26,20 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. A
 ---
 
 ### 📊 Estatísticas do GitHub
-Aqui é onde a mágica acontece com os gráficos dinâmicos:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrioti&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrioti&layout=compact&langs_count=7&theme=radical" />
 </p>
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabrioti&show_icons=true&theme=radical)
 
 ---
 
 ### 🏆 Projetos em Destaque
-*Estes são os repositórios que eu fixei logo abaixo:*
 
-1.  **[Nome do Projeto 1](link-do-repo):** Uma API robusta feita com NestJS.
-2.  **[Nome do Projeto 2](link-do-repo):** Interface responsiva consumindo a API do GitHub.
+1.  **[Nome do Projeto 1](link-do-repo):**
+2.  **[Nome do Projeto 2](link-do-repo):**
 
 ---
 
