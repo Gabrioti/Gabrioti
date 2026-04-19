@@ -32,14 +32,12 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. A
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrioti&layout=compact&langs_count=7&theme=radical" />
 </p>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabrioti&show_icons=true&theme=radical)
-
 ---
 
 ### 🏆 Projetos em Destaque
 
-1.  **[Nome do Projeto 1](link-do-repo):**
-2.  **[Nome do Projeto 2](link-do-repo):**
+1.  **[RPG em Java](https://github.com/Gabrioti/Tarefas-Java):**
+2.  **[Programa CND](https://github.com/Gabrioti/Programa_CND_v1):**
 
 ---
 
